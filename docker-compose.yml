@@ -3,4 +3,4 @@ services:
   web:
     image: language-detection-app
     ports:
-      - "2048:80"
+      - "81:80"
